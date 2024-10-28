@@ -7,6 +7,7 @@ Also used:
 - 1/4-20 wing nuts (https://www.amazon.com/dp/B0CCDHJ7ZW)
 - 2.75" trailer hitch pin (https://www.amazon.com/dp/B0D6BWQCB2)
 - Ubiquiti UB-AM j-pole antenna mount (https://store.ui.com/us/en/products/universal-antenna-mount)
+- [Optional] Outdoor zip ties for fastening plates on bottom (https://www.amazon.com/dp/B0BRXZ9RQG)
 
 View the file directly on Autodesk's viewer at https://a360.co/3NILc7a.
 
