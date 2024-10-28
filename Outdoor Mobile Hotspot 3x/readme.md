@@ -6,6 +6,7 @@ Not modeled, but required for these to fit together are 6x 1/4-20 by 0.750" flus
 Also used:
 - 1/4-20 wing nuts (https://www.amazon.com/dp/B0CCDHJ7ZW)
 - 2.75" trailer hitch pin (https://www.amazon.com/dp/B0D6BWQCB2)
+- Ubiquiti UB-AM j-pole antenna mount (https://store.ui.com/us/en/products/universal-antenna-mount)
 
 View the file directly on Autodesk's viewer at https://a360.co/3NILc7a.
 
