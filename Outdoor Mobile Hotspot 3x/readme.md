@@ -9,6 +9,6 @@ Also used:
 - Ubiquiti UB-AM j-pole antenna mount (https://store.ui.com/us/en/products/universal-antenna-mount)
 - [Optional] Outdoor zip ties for fastening plates on bottom (https://www.amazon.com/dp/B0BRXZ9RQG)
 
-View the file directly on Autodesk's viewer at https://a360.co/3NILc7a.
+View the file directly on Autodesk's viewer at https://a360.co/44ce8xs.
 
 ![Assembly without Hotspot](images/assembled-nohmh.jpeg)
