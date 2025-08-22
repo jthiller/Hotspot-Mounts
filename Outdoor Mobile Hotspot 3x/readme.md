@@ -1,7 +1,9 @@
 # Outdoor Mobile Hotspot 3x Mount
 
-Manufactured by SendCutSend.
 Not modeled, but required for these to fit together are 6x 1/4-20 by 0.750" flush studs, set facing upward in the direction of the bend. 
+
+Available for order in the SendCutSend Marketplace: [marketplace.sendcutsend.com](https://marketplace.sendcutsend.com/p/CS29V519/outdoor-helium-hotspot-3x-mount).  
+[Quantity discounts](https://sendcutsend.com/services/laser-cutting/examples/) apply if using the files here to assemble an order.
 
 Also used:
 - 1/4-20 wing nuts (https://www.amazon.com/dp/B0CCDHJ7ZW)
